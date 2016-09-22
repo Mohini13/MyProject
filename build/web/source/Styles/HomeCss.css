@@ -1,0 +1,89 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 13, 2016, 11:46:23 AM
+    Author     : kamalpreet
+*/
+
+#heades
+{
+    background-color: blue;
+    font-size: 30px;
+    color: gold;
+}
+.button{
+    align-content: center;
+}
+#header{
+    background-color: buttonface;
+}
+ul#navi {
+    padding: 0;
+    margin-bottom: 11px;
+}
+
+ul#navi li {
+    display: inline;
+    margin-right: 3px;
+}
+
+ul#navi li a {
+    background-color: buttonface;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #696969;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#navi li a:hover {
+    color: white;
+    background-color: black;
+}
+/*#searchAv {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #f3f3f3;
+}*/
+
+/*.avail {
+    float: left;
+}
+
+.avail a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;*/
+/*}
+
+.avail a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.avail a.active {
+    color: white;
+    background-color: #4CAF50;
+}
+
+#searchAv{
+    color: black;
+    font-size: 20px;                              
+    margin: 20px auto;
+    padding: 0px 15px;
+    clear: both;
+    text-align: center;		
+    font-weight: normal;
+    height: 200px;
+    background-color: blue;
+}*/
+.collapse navbar-collapse
+{
+   
+}
